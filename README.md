@@ -1,3 +1,5 @@
+La prueba consta en la operación básica de 2 números, dentro de la activity colocamos las variables y el spinner imprimir el resultado.
+
 package com.example.prueba_calculadora
 
 import androidx.appcompat.app.AppCompatActivity
@@ -42,11 +44,16 @@ class MainActivity : AppCompatActivity() {
 
 
             }
+            
+            
         }
 
         }
         
     }
+    
+    ![image](https://github.com/ArielVilcaguano/Prueba-parcial-calculadora/assets/133244467/553cd3af-b8bc-4165-b681-6b0f159c6705)
+
     
     
    
